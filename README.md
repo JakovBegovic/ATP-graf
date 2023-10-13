@@ -1,3 +1,3 @@
 # ATP-graf
-Implementacija ATP grafa pomoću polja i vezane liste. Dolazi sa datotekom zaglavlja, programom koji testira ATP i popratnim seminarskim radom. <br>
+Implementacija ATP grafa pomoću polja i vezane liste. Uključena je datoteka zaglavlja, program koji testira ATP i popratni seminarski rad. <br>
 Razvijeno u svrhu seminarskog rada na kolegiju Strukture podataka i algoritmi.
